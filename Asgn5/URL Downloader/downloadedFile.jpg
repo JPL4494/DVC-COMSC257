@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]>
+<html class="ie ie6" lang="en">
+   <![endif]-->
+<!--[if IE 7 ]>
+   <html class="ie ie7" lang="en">
+    <![endif]-->
+<!--[if IE 8 ]>
+    <html class="ie ie8" lang="en">
+     <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html lang="en" data-useragent="Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)">
+  <!--<![endif]-->
+  <head>
+    <head profile="http://www.w3.org/1999/xhtml/vocab">
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link http-equiv="x-dns-prefetch-control" content="on" />
+<link rel="dns-prefetch" href="//cdn.yosemiteconservancy.org" />
+<!--[if IE 9]>
+<link rel="prefetch" href="//cdn.yosemiteconservancy.org" />
+<![endif]-->
+<link rel="shortcut icon" href="http://cdn.yosemiteconservancy.org/sites/default/files/yosemite_favicon_0.ico" type="image/vnd.microsoft.icon" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://www.yosemiteconservancy.org/webcams/el-capitan" />
+<link rel="shortlink" href="http://www.yosemiteconservancy.org/node/325" />
+    <title>El Capitan | Yosemite Conservancy</title>
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link type="text/css" rel="stylesheet" href="http://cdn.yosemiteconservancy.org/sites/default/files/cdn/css/http/css_0AT1AsYXZQxB_bG6xwofROoz91hSrM2_eTS83YcbMQU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://cdn.yosemiteconservancy.org/sites/default/files/cdn/css/http/css_ApqyfgkTZbdVnTHR6Jpvb7KRSoQxpX5UvaJPnkVyT-o.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://cdn.yosemiteconservancy.org/sites/default/files/cdn/css/http/css_IxyAS1eR4Y8E2_64wp9llc3lB7J6xRLayxZMChYwgMo.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://cdn.yosemiteconservancy.org/sites/default/files/cdn/css/http/css_vg3EExa-KP3yOFaOfNcSgCUGx7IVJRtF-lbXgMZlzhs.css" media="all" />
+    <link rel="stylesheet" type="text/css" href="http://cloud.typography.com/7887452/620442/css/fonts.css">
+   <!--[if lte IE 8]>
+  <link rel="stylesheet" type="text/css" href="/sites/all/themes/yosemite/css/ie8-and-down.css" />
+<![endif]-->
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+<!--
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+-->    
+	<script>
+  	console.log("make a difference");
+  </script>
+  
+    <script src="http://cdn.yosemiteconservancy.org/sites/default/files/js/js_jpJjaUC0z8JMIyav5oQrYykDRUb64rpaUDpB4Y9aklU.js"></script>
+<script src="http://cdn.yosemiteconservancy.org/sites/default/files/js/js_bYTn_hnm6FTYFC4MX4jXq1dgjDpTuSA-Xc_bnf6q1tM.js"></script>
+<script src="http://cdn.yosemiteconservancy.org/sites/all/modules/lightbox2/js/lightbox.js?1455840053"></script>
+<script src="http://cdn.yosemiteconservancy.org/sites/default/files/js/js_iqDlcL6RpL7bJd-T_mXnJdJi1Xz6utFloujzS57UC10.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-19205009-1", {"cookieDomain":"auto"});ga("send", "pageview");ga('create', 'UA-31258280-16', 'auto', {'name': 'universal'});
+ga('universal.send', 'pageview');
+ga('create', 'UA-31258280-28', 'auto', {'name': 'yosemite'});
+ga('yosemite.send', 'pageview');</script>
+<script src="http://cdn.yosemiteconservancy.org/sites/default/files/js/js_pm8gwn957pExnORxWnoEOxVJR6RZvSfnapqrM7E8KYE.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"yosemite","theme_token":"2s0h9cZyXzH1FUcjw6gz4ASBGtImKJdrIDfvuOYhwVM","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/google_cse\/google_cse.js":1,"sites\/all\/modules\/lightbox2\/js\/lightbox.js":1,"sites\/all\/modules\/field_group\/field_group.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/yosemite\/js\/jquery.cycle2.min.js":1,"sites\/all\/themes\/yosemite\/js\/jquery.easing.1.3.js":1,"sites\/all\/themes\/yosemite\/js\/jquery.cookie.js":1,"sites\/all\/themes\/yosemite\/js\/jquery.simplemodal.1.4.4.min.js":1,"sites\/all\/themes\/yosemite\/js\/init.js":1,"sites\/all\/themes\/yosemite\/bootstrap\/js\/bootstrap-alert.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/custom\/date\/date_api\/date.css":1,"sites\/all\/modules\/custom\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/custom\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/google_cse\/google_cse.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/lightbox2\/css\/lightbox_alt.css":1,"sites\/all\/themes\/yosemite\/css\/style.css":1}},"googleCSE":{"cx":"001428372803188352851:xysb_hailxo","language":"","resultsWidth":970,"domain":"yosemite.503i.com"},"lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":1,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":1,"disable_resize":1,"disable_zoom":0,"force_show_nav":0,"show_caption":0,"loop_items":0,"node_link_text":"View Image Details","node_link_target":0,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":1024,"iframe_height":768,"iframe_border":0,"enable_video":0},"field_group":{"div":"full"},"better_exposed_filters":{"views":{"module_blocks":{"displays":{"block_40":{"filters":[]}}},"webcam_detail_bottom_blocks":{"displays":{"block_36":{"filters":[]}}},"webcams":{"displays":{"block_1":{"filters":[]}}},"testimonials":{"displays":{"block":{"filters":[]}}}}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"}});</script>
+  </head>
+  <body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-325 node-type-webcam support-us-section" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+    <div class="main-container container">
+
+      <header id="print-header">
+        <img src="/sites/all/themes/yosemite/images/logo-print.png" alt="Yosemite Conservancy" class="logo">
+      </header> 
+      <header id="header">
+        <i class="yellow-bar"></i>
+        <a class="logo pull-left" href="/" title="Yosemite Conservancy">
+          <img src="/sites/all/themes/yosemite/images/logo.png" alt="Yosemite Conservancy" class="logo">
+        </a>
+        <div id="outreach-menu">
+          <ul>
+            <li>
+              <a id="donate" href="https://secure.yosemiteconservancy.org/donate/">Donate</a>
+            </li>
+            <li>
+              <a href="/volunteer">Volunteer</a>
+            </li>
+            <li>
+              <a href="/newsletter">Newsletter</a>
+            </li>
+            <li>
+              <a href="/blog">Blog</a>
+            </li>
+          </ul>
+        </div> 
+
+        <div id="main-menu">
+                          <ul class="menu nav"><li class="first expanded active-trail dropdown"><a href="/experience-yosemite" class="active-trail dropdown-toggle" data-toggle="dropdown" data-target="#">Experience Yosemite <span class="caret"></span></a><ul class="dropdown-menu"><li class="first expanded active-trail dropdown-submenu"><a href="/" title="" class="active-trail dropdown-toggle" data-toggle="dropdown" data-target="#">Explore</a><ul class="dropdown-menu"><li class="first collapsed"><a href="/outdoor-adventures">Outdoor Adventures</a></li>
+<li class="collapsed"><a href="/custom-adventures" title="Custom Adventures">Custom Adventures</a></li>
+<li class="leaf"><a href="/volunteer">Volunteer</a></li>
+<li class="leaf"><a href="/yosemite-theater" title="">Yosemite Theater</a></li>
+<li class="collapsed"><a href="/yosemite-art-center">Art Workshops</a></li>
+<li class="collapsed"><a href="/ostrander-ski-hut">Ostrander Ski Hut</a></li>
+<li class="collapsed"><a href="/wilderness-permits">Wilderness Permits</a></li>
+<li class="leaf"><a href="/donor-events">Donor Events</a></li>
+<li class="expanded active-trail dropdown-submenu"><a href="/webcams" class="active-trail dropdown-toggle" data-toggle="dropdown" data-target="#">Webcams</a><ul class="dropdown-menu"><li class="first leaf active-trail active"><a href="/webcams/el-capitan" class="active-trail active">El Capitan</a></li>
+<li class="leaf"><a href="/webcams/half-dome">Half Dome</a></li>
+<li class="leaf"><a href="/webcams/high-sierra">High Sierra</a></li>
+<li class="last leaf"><a href="/webcams/yosemite-falls">Yosemite Falls</a></li>
+</ul></li>
+<li class="leaf"><a href="/videos">Videos</a></li>
+<li class="last leaf"><a href="/staff-picks">Staff Picks</a></li>
+</ul></li>
+<li class="leaf"><a href="/2015-art-and-theater-assistant-registration">2015 Art and Theater Assistant Registration</a></li>
+<li class="leaf"><a href="/outdoor-adventures-assistant-registration">2015 Outdoor Adventures Assistant Registration</a></li>
+<li class="leaf"><a href="/visitor-information-volunteer-registration">2015 Visitor Information Volunteer Registration</a></li>
+<li class="leaf"><a href="/youth-art-teacher-registration">2015 Youth Art Teacher Registration</a></li>
+<li class="leaf"><a href="/MLK-volunteer-registration">Martin Luther King, Jr. Day Volunteer Registration</a></li>
+<li class="leaf"><a href="/national-park-weekend-volunteer-registration">National Park Weekend Volunteer Registration</a></li>
+<li class="leaf"><a href="/park-entrance-greeter-schedule">Park Entrance Greeter Schedule</a></li>
+<li class="leaf"><a href="/presidents-day-volunteer-form">President&#039;s Day Volunteer Form</a></li>
+<li class="leaf"><a href="/visitor-information-schedule">Visitor Information Assistants Schedule of Dates and Locations</a></li>
+<li class="leaf"><a href="/work-week-crews-schedule">Work Week Crews Schedule of Dates and Locations</a></li>
+<li class="last leaf"><a href="/work-week-volunteer-registration">Work Week Volunteer Registration</a></li>
+</ul></li>
+<li class="leaf"><a href="/calendar">Events &amp; Calendar</a></li>
+<li class="collapsed"><a href="/your-gifts-work">Your Gifts at Work</a></li>
+<li class="collapsed"><a href="/support-yosemite">Support Yosemite</a></li>
+<li class="collapsed"><a href="/about-yosemite-conservancy" title="About Us">About Us</a></li>
+<li class="last collapsed"><a href="http://www.yosemiteconservancystore.com" title="">Shop</a></li>
+</ul>                     </div> 
+
+        
+      </header>
+
+      <div id="body" class="row-fluid" style="clear:both">
+
+      
+
+          <aside class="span3" role="complementary">
+            <section id="block-menu-block-3" class="block block-menu-block clearfix">
+
+        <h2 class="block-title">Experience</h2>
+    
+  <div class="menu-block-wrapper menu-block-3 menu-name-main-menu parent-mlid-3003 menu-level-1">
+  <ul class="menu nav"><li class="first collapsed menu-mlid-1168"><a href="/outdoor-adventures">Outdoor Adventures</a></li>
+<li class="collapsed menu-mlid-1886"><a href="/custom-adventures" title="Custom Adventures">Custom Adventures</a></li>
+<li class="leaf menu-mlid-3717"><a href="/volunteer">Volunteer</a></li>
+<li class="leaf menu-mlid-3504"><a href="/yosemite-theater" title="">Yosemite Theater</a></li>
+<li class="collapsed menu-mlid-2999"><a href="/yosemite-art-center">Art Workshops</a></li>
+<li class="collapsed menu-mlid-1173"><a href="/ostrander-ski-hut">Ostrander Ski Hut</a></li>
+<li class="collapsed menu-mlid-1175"><a href="/wilderness-permits">Wilderness Permits</a></li>
+<li class="leaf menu-mlid-3941"><a href="/donor-events">Donor Events</a></li>
+<li class="expanded active-trail menu-mlid-1935 dropdown-submenu"><a href="/webcams" class="active-trail dropdown-toggle" data-toggle="dropdown" data-target="#">Webcams</a><ul class="dropdown-menu"><li class="first leaf active-trail active menu-mlid-3340 active"><a href="/webcams/el-capitan" class="active-trail active">El Capitan</a></li>
+<li class="leaf menu-mlid-3338"><a href="/webcams/half-dome">Half Dome</a></li>
+<li class="leaf menu-mlid-3339"><a href="/webcams/high-sierra">High Sierra</a></li>
+<li class="last leaf menu-mlid-3337"><a href="/webcams/yosemite-falls">Yosemite Falls</a></li>
+</ul></li>
+<li class="leaf menu-mlid-3731"><a href="/videos">Videos</a></li>
+<li class="last leaf menu-mlid-1174"><a href="/staff-picks">Staff Picks</a></li>
+</ul></div>
+  
+</section> <!-- /.block -->
+      </aside>  <!-- /#sidebar-first -->
+      
+    
+        <section class="span9">  
+                              <a id="main-content"></a>
+                              <!-- <h1 class="page-header">El Capitan </h1> -->
+                                                            
+<div  class="ds-1col node node-webcam view-mode-full clearfix">
+
+  
+  <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h2>El Capitan </h2></div></div></div><div class="field field-name-field-webcam-lrg field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="http://pixelcaster.com/yosemite/webcams/turtleback.jpg" rel="lightbox">http://pixelcaster.com/yosemite/webcams/turtleback.jpg</a></div></div></div><div class="field field-name-add-this field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><section id="block-block-30" class="block block-block clearfix">
+
+      
+  <h2>Share</h2><!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-52c6f999767d74da" async="async"></script>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox"></div>
+<div class="subscribe-box">
+<h2>&nbsp;&nbsp;Subscribe</h2><a href="/blog/rss" class="rss-link"><span>RSS Feed</span></a>
+</div>
+<p>&nbsp;</p>
+
+<style>.node-type-webcam .subscribe-box {display:none !important} </style>
+  
+</section> <!-- /.block -->
+</div></div></div><div class="field field-name-field-body-right field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>The granite formation to the left of Half Dome is El Capitan. This vertical rock formation extends about 3,000 feet (900 meters) from base to summit along its tallest face. View a<strong> <a href="http://halfdome.net/" target="_blank">timelapse</a> </strong>of the webcams.</p>
+<p>Yosemite webcams are maintained through the generous support of Yosemite Conservancy donors. Help support these webcams and provide for the future of Yosemite by <strong><a href="https://secure.yosemiteconservancy.org/donate/">donating</a></strong> today. Your gift helps preserve and protect Yosemite for visitors today and for generations to come.  </p>
+</div></div></div><div class="field field-name-field-bottom-blocks field-type-blockreference field-label-hidden"><div class="field-items"><div class="field-item even"><section id="block-views-module-blocks-block-40" class="block block-views clearfix">
+
+      
+  <div class="view view-module-blocks view-id-module_blocks view-display-id-block_40 view-dom-id-804503711dbcdef03c68391dbc9b2bb9">
+        
+  
+  
+      <div class="view-content">
+      
+<div id="views-bootstrap-grid-1" class="views-bootstrap-grid-plugin-style">
+  
+          <div class="row-fluid">
+                  <div class="span4">
+            <div  class="ds-1col node node-module-custom view-mode-full clearfix">
+
+  
+  <div id="node-module-custom-full-group-image-group" class=" group-image-group field-group-div"><div class="field field-name-field-module-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img src="http://cdn.yosemiteconservancy.org/sites/default/files/styles/responsive_thumb/public/module_images/march_5-6_t_snowshoe_yosemite_winter_ecology_and_survival_at_tuolumne_grove_-_trip_1_0.jpg?itok=CC4GXTcT" width="480" height="320" alt="Visitors marvel at towering giant sequoias during a guided Yosemite tour with Yosemite Conservancy Outdoor Adventures." /></div></div></div><div class="field field-name-field-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Snowshoe Yosemite: Winter Ecology </div></div></div></div><div class="field field-name-field-teaser field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Explore the majestic giant sequoias of Tuolumne Grove and learn key survival skills on this expert-led expedition.</p>
+</div></div></div><div class="field field-name-field-link-ext field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="http://www.yosemiteconservancy.org/outdoor-adventures/snowshoe-yosemite-winter-ecology-tuolumne-grove" class="tan-button">Learn More</a></div></div></div></div>
+
+          </div>
+                  <div class="span4">
+            <div  class="ds-1col node node-module-custom view-mode-full clearfix">
+
+  
+  <div id="node-module-custom-full-group-image-group--2" class=" group-image-group field-group-div"><div class="field field-name-field-module-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img src="http://cdn.yosemiteconservancy.org/sites/default/files/styles/responsive_thumb/public/module_images/chasing_snow_river_landscape.jpg?itok=AR63duue" width="480" height="320" alt="Predicting changes in Yosemite’s snowpack is vital to understanding water availability." /></div></div></div><div class="field field-name-field-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Chasing Snow for Science</div></div></div></div><div class="field field-name-field-teaser field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Savoring those snowy vistas? Park scientists are also watching the snow, to monitor and predict Yosemite's long-term water resources.</p>
+</div></div></div><div class="field field-name-field-link-ext field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="http://www.yosemiteconservancy.org/scientific-research/monitor-yosemite-snowpack-2016" class="tan-button">Learn More</a></div></div></div></div>
+
+          </div>
+                  <div class="span4">
+            <div  class="ds-1col node node-module-custom view-mode-full clearfix">
+
+  
+  <div id="node-module-custom-full-group-image-group--3" class=" group-image-group field-group-div"><div class="field field-name-field-module-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img src="http://cdn.yosemiteconservancy.org/sites/default/files/styles/responsive_thumb/public/module_images/april_29-may_1_t_spring_feathers_and_flowers_weekend.jpg?itok=GrxgHuWf" width="480" height="320" alt="During a weekend of guided hikes in Yosemite, visitors learn about diverse flora and fauna, including endangered great gray owls, on a Yosemite Conservancy Outdoor Adventure." /></div></div></div><div class="field field-name-field-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Combo Adventure: Spring Feathers and Flowers</div></div></div></div><div class="field field-name-field-teaser field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Sign up now for a spring weekend of discovery, featuring Yosemite's diverse birds and wildflowers.</p>
+</div></div></div><div class="field field-name-field-link-ext field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="http://www.yosemiteconservancy.org/outdoor-adventures/combo-adventure-package-spring-feathers-and-flowers" class="tan-button">Learn More</a></div></div></div></div>
+
+          </div>
+              </div>
+    
+  </div>
+
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  
+</section> <!-- /.block -->
+</div></div></div></div>
+
+<section id="block-views-webcams-block-1" class="block block-views clearfix">
+
+        <h2 class="block-title">Webcams and Videos</h2>
+    
+  <div class="view view-webcams view-id-webcams view-display-id-block_1 view-dom-id-6651ca021ed2f4254fb58c7308135b2f">
+        
+  
+  
+      <div class="view-content">
+      
+<div id="views-bootstrap-grid-2" class="views-bootstrap-grid-plugin-style">
+  
+          <div class="row-fluid">
+                  <div class="span3">
+              
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="webcam-teaser">
+<div class="webcam-thumb"><h4>Yosemite Falls</h4>
+<a href="/webcams/yosemite-falls"><img src="http://pixelcaster.com/yosemite/webcams/yosfalls-t.jpg" /></a></div>
+</div></span>  </div>          </div>
+                  <div class="span3">
+              
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="webcam-teaser">
+<div class="webcam-thumb"><h4>Half Dome </h4>
+<a href="/webcams/half-dome"><img src="http://pixelcaster.com/yosemite/webcams/ahwahnee2-t.jpg" /></a></div>
+</div></span>  </div>          </div>
+                  <div class="span3">
+              
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="webcam-teaser">
+<div class="webcam-thumb"><h4>High Sierra </h4>
+<a href="/webcams/high-sierra"><img src="http://pixelcaster.com/yosemite/webcams/sentinel-t.jpg" /></a></div>
+</div></span>  </div>          </div>
+              </div>
+    
+  </div>
+
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <p>&nbsp;</p>
+<p><em>Live cameras by Pixelcaster</em></p>
+    </div>
+  
+  
+</div>  
+</section> <!-- /.block -->
+                                                            </section>
+
+
+      
+
+
+      
+      </div>
+
+
+      <footer id="footer">
+
+        <div class="top-bar row-fluid">
+          <div id="trademark" class="span9">
+            <img src="/sites/all/themes/yosemite/images/trademark.png">
+          </div><!-- //TRADEMARK -->
+          <div id="nps" class="span3">
+            <img src="/sites/all/themes/yosemite/images/nps.png">
+          </div><!-- //NPS LOGO -->
+        </div>
+
+        <div class="bottom-bar row-fluid">
+          <div class="span6">
+            <div id="social">
+              <a href="https://www.facebook.com/yosemiteconservancy" target="_blank" class="icon-facebook"></a>
+              <a href="https://www.twitter.com/yoseconservancy" target="_blank" class="icon-twitter"></a>
+              <a href="https://www.instagram.com/yosemiteconservancy" target="_blank" class="icon-instagram"></a>
+              <a href="https://www.linkedin.com/company/yosemite-conservancy" target="_blank" class="icon-linkedin"></a>
+              <a href="http://www.flickr.com/groups/yosemiteconservancy/" target="_blank" class="icon-flickr"></a> 
+              <a href="http://www.pinterest.com/yconservancy/" target="_blank" class="icon-pinterest"></a> 
+              <a href="mailto:info@yosemiteconservancy.org" class="icon-email"></a> 
+              <a href="http://www.yosemiteconservancy.org/blog/rss" target="_blank" class="icon-rss"></a>
+            </div><!-- //SOCIAL -->
+
+
+            <div id="footer-menu">
+          
+            <ul id="menu-footer-links" role="navigation" class="links inline"><li class="menu-1927 first"><a href="/support-yosemite" title="">Support Us</a></li>
+<li class="menu-1929"><a href="http://www.yosemiteconservancystore.com" title="">Shop</a></li>
+<li class="menu-1924"><a href="/experience-yosemite" title="">Experience Yosemite</a></li>
+<li class="menu-1928"><a href="/about-yosemite-conservancy" title="">About Us</a></li>
+<li class="menu-3327"><a href="/calendar" title="">Events &amp; Calendar</a></li>
+<li class="menu-3328"><a href="/contact" title="">Contact</a></li>
+<li class="menu-1926"><a href="/your-gifts-work" title="">Your Gifts at Work</a></li>
+<li class="menu-1904 last"><a href="/privacy-policy" title="">Privacy</a></li>
+</ul>
+            </div><!-- //FOOTER LINKS -->
+          </div>
+          <div class="span6">
+            <div id="logos">
+              <img src="/sites/all/themes/yosemite/images/logos.png">
+            </div><!-- //LOGOS -->
+            <form id="search-form" action="/search-results" method="get">
+              <fieldset class="search-field">
+                <input type="text" name="query"></input> <button type="submit">&#128269;</button>
+              </fieldset>
+            </form><!-- //SEARCH FORM -->
+            <div id="copyright">
+              </h4><span>© Copyright Yosemite Conservancy 2016</span> | 
+              <span class="plumbcredz"><a href="http://www.plumbline.com" target="_blank">Site by Plumbline</a></span>
+            </div><!-- //COPYRIGHT -->
+          </div>
+        </div>
+      </footer>
+    </div><!-- container -->
+  
+</body>
+</html>
